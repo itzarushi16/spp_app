@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">PlantPal</string>
+    <string name="plantpal">PlantPal</string>
+    <string name="get_started">Get Started</string>
+    <string name="sign_up">Sign up</string>
+    <string name="log_in_with_google">Log in with Google</string>
+    <string name="log_in_with_facebook">Log in with Facebook</string>
+    <string name="username">Username</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="sign_in">Sign In</string>
+    <string name="already_have_an_account_login">Already have an account? Login</string>
+    <string name="or">Or</string>
+    <string name="create_password">Create Password</string>
+    <string name="log_in">Log In</string>
+    <string name="password">Password</string>
+    <string name="log_in2">Log In</string>
+    <string name="sign_in_with_facebook">Sign in with Facebook</string>
+    <string name="sign_in_with_google">Sign in with Google</string>
+    <string name="already_have_an_account_log_in">Already have an account? Log in</string>
+    <string name="back">Back</string>
+    <string name="back2">Back</string>
+    <string name="email">Email</string>
+    <string name="default_web_client_id">1001724394244-5msh8vetpmhuqe11fge34fqmfietb52b.apps.googleusercontent.com</string>
+
+</resources>
